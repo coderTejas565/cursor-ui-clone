@@ -25,7 +25,10 @@ nav{
     color: #EDECEC;
     align-items: center;
     margin-top: 7px;
+    padding-top: 7px;
+    padding-bottom: 7px;
     background: #14120B;
+    border-radius: 14px;
     position: sticky;
     top: 0;
 }
